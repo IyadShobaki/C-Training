@@ -1,0 +1,11 @@
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp2.2\IntroductionToCsharp.deps.json
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp2.2\IntroductionToCsharp.runtimeconfig.json
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp2.2\IntroductionToCsharp.runtimeconfig.dev.json
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp2.2\IntroductionToCsharp.dll
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp2.2\IntroductionToCsharp.pdb
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp2.2\IntroductionToCsharp.csprojAssemblyReference.cache
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp2.2\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp2.2\IntroductionToCsharp.AssemblyInfoInputs.cache
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp2.2\IntroductionToCsharp.AssemblyInfo.cs
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp2.2\IntroductionToCsharp.dll
+D:\C#\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp2.2\IntroductionToCsharp.pdb
