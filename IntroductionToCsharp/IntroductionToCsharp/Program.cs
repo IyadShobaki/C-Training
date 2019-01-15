@@ -6,13 +6,29 @@
         static void Main(string[] args)
         {
 
-        string name = "\"Program\"\nOne\nTwo";
-        Console.WriteLine(name);
+        //Ternary operator
 
-        //string name1 = "C:\\Program\\DotNet\\Training\\C#";
-        string name1 = @"C:\Program\DotNet\Training\C#";
-        Console.WriteLine(name1);
+        int number = 15;
+        bool isNumber10 = number == 10 ? true : false; // use this line instead of the following
+
+        //bool isNumber10;
+        //if (number == 10)
+        //{
+        //    isNumber10 = true;
+        //}
+        //else
+        //{
+        //    isNumber10 = false;
+        //}
+        Console.WriteLine("Number == 10 is {0}", isNumber10);
         Console.ReadLine();
+        //string name = "\"Program\"\nOne\nTwo";
+        //Console.WriteLine(name);
+
+        ////string name1 = "C:\\Program\\DotNet\\Training\\C#";
+        //string name1 = @"C:\Program\DotNet\Training\C#";
+        //Console.WriteLine(name1);
+        //Console.ReadLine();
 
         //-------------------------------------
 
