@@ -17,6 +17,7 @@ namespace Arrays
 
             Console.WriteLine(EvenNumbers[0]);
 
+            Console.ReadLine();
 
 
         }
